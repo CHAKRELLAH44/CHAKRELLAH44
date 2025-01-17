@@ -53,12 +53,8 @@ This is where I open-source, break things, and build them back better:
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
 </div>
 
-###
+### Spotify Playing 🎧
 
 
-
-
-
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.gifdb.com/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif)"  />
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jkcgqgeum9gcmp3x23skg6h5e&unique={true|1|on|yes})
 ###
