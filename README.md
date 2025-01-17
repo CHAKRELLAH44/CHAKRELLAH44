@@ -7,7 +7,8 @@ This is where I open-source, break things, and build them back better:
   - Passionate programmer with a hunger for growth in computer science 💻
   - Engineer in her girlie era 💅
   - Speed and adrenaline lover 🚀
-  - Engineering student with a sweet tooth and a passion for pastries 🧁
+  - Turning flour, sugar, and code into something delicious 🍪👩‍🍳
+  - In love with lyrics that touch the soul and beats that move the body 🎶❤️
 
 
 
@@ -52,6 +53,10 @@ This is where I open-source, break things, and build them back better:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
 </div>
+
+###
+<img src="https://raw.githubusercontent.com/CHAKRELLAH44/CHAKRELLAH44/output/snake.svg" alt="Snake animation" />
+
 
 ### Spotify Playing 🎧
 
