@@ -60,6 +60,5 @@ This is where I open-source, break things, and build them back better:
 
 ### Spotify Playing 🎧
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jkcgqgeum9gcmp3x23skg6h5e&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jkcgqgeum9gcmp3x23skg6h5e)
 ###
