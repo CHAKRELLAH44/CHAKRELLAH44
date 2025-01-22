@@ -54,8 +54,6 @@ This is where I open-source, break things, and build them back better:
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/CHAKRELLAH44/CHAKRELLAH44/output/snake.svg" alt="Snake animation" />
 
 
 ### Spotify Playing 🎧
