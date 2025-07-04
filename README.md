@@ -12,21 +12,163 @@ This is where I open-source, break things, and build them back better:
 
 
 
-### 💻 Tech Stack:
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-<a href="https://github.com/CHAKRELLAH44"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
-<a href="https://github.com/CHAKRELLAH44"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=scikit&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=cpp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=sqlite&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=pytorch&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=android&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=csharp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
+
+<h2> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
+<!-- C++ -->
+<a href="https://isocpp.org/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+</a>
+
+<!-- C -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</a>
+
+<!-- C# -->
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</a>
+
+<!-- Java -->
+<a href="https://www.java.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
+
+<!-- SQL -->
+<a href="https://en.wikipedia.org/wiki/SQL">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</a>
+
+<!-- PL/SQL (Oracle) -->
+<a href="https://www.oracle.com/database/technologies/appdev/plsql.html">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+</a>
+
+<!-- NoSQL (MongoDB as example) -->
+<a href="https://www.mongodb.com/nosql-explained">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</a>
+
+<!-- HTML -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</a>
+
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</a>
+
+<!-- JavaScript -->
+<a href="https://www.javascript.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</a>
+
+<!-- JEE (Java Enterprise Edition) -->
+<a href="https://www.oracle.com/java/technologies/java-ee-glance.html">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</a>
+
+<!-- Git Bash (use Git icon) -->
+<a href="https://gitforwindows.org/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</a>
+
+<!-- Oracle -->
+<a href="https://www.oracle.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+</a>
+
+<!-- Azure -->
+<a href="https://azure.microsoft.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+</a>
+
+<!-- .NET -->
+<a href="https://dotnet.microsoft.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+</a>
+
+<!-- React -->
+<a href="https://react.dev/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</a>
+
+<!-- Django -->
+<a href="https://www.djangoproject.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+</a>
+
+<!-- Figma -->
+<a href="https://www.figma.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</a>
+
+<!-- Adobe (generic for Adobe CC) -->
+<a href="https://www.adobe.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+</a>
+
+<!-- Agile (use generic scrum icon) -->
+<a href="https://en.wikipedia.org/wiki/Agile_software_development">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/agile.svg">
+</a>
+
+<!-- Scrum -->
+<a href="https://www.scrum.org/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrumalliance.svg">
+</a>
+
+<!-- Kanban -->
+<a href="https://en.wikipedia.org/wiki/Kanban_(development)">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kanban.svg">
+</a>
+
+<!-- Postman -->
+<a href="https://www.postman.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+</a>
+
+<!-- Vite -->
+<a href="https://vitejs.dev/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg">
+</a>
+
+<!-- PySpark -->
+<a href="https://spark.apache.org/docs/latest/api/python/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachepyspark.svg">
+</a>
 
 ### Spotify Playing 🎧
 
