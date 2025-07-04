@@ -89,11 +89,6 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </a>
 
-<!-- Git Bash (use Git icon) -->
-<a href="https://gitforwindows.org/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</a>
-
 <!-- GitHub -->
 <a href="https://github.com/">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -116,7 +111,7 @@ This is where I open-source, break things, and build them back better:
 
 <!-- AWS (alternate logo) -->
 <a href="https://aws.amazon.com/">
-  <img width="32px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg">
 </a> 
 
 <!-- .NET -->
