@@ -166,6 +166,21 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
 </a>
 
+<!-- Flask -->
+<a href="https://flask.palletsprojects.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+</a>
+
+<!-- React -->
+<a href="https://react.dev/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</a>
+
+<!-- Tomcat -->
+<a href="https://tomcat.apache.org/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
+</a>
+
 ### Spotify Playing 🎧
 
 
