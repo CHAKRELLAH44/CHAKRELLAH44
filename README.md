@@ -40,6 +40,15 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
 
+<!-- Linux -->
+<a href="https://www.linux.org/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</a>
+
+<!-- Script (generic shell) -->
+<a href="https://en.wikipedia.org/wiki/Shell_script">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</a>
 <!-- SQL -->
 <a href="https://en.wikipedia.org/wiki/SQL">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -105,10 +114,10 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </a>
 
-<!-- AWS -->
+<!-- AWS (alternate logo) -->
 <a href="https://aws.amazon.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-</a>
+  <img width="32px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg">
+</a> 
 
 <!-- .NET -->
 <a href="https://dotnet.microsoft.com/">
@@ -140,34 +149,26 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </a>
 
-<!-- Agile (use generic scrum icon) -->
-<a href="https://en.wikipedia.org/wiki/Agile_software_development">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/agile.svg">
-</a>
 
 <!-- Scrum -->
 <a href="https://www.scrum.org/">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrumalliance.svg">
 </a>
 
-<!-- Kanban -->
-<a href="https://en.wikipedia.org/wiki/Kanban_(development)">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kanban.svg">
-</a>
 
 <!-- Postman -->
 <a href="https://www.postman.com/">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
 </a>
 
-<!-- Vite -->
+<!-- Vite (alternate logo) -->
 <a href="https://vitejs.dev/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg">
 </a>
 
-<!-- PySpark -->
+<!-- PySpark (alternate logo, generic Spark) -->
 <a href="https://spark.apache.org/docs/latest/api/python/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachepyspark.svg">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
 </a>
 
 ### Spotify Playing 🎧
