@@ -3,7 +3,7 @@
 
 This is where I open-source, break things, and build them back better:
 
-  - 4th-year engineering student turning caffeine into code ☕
+  - last year engineering student turning caffeine into code ☕
   - Passionate programmer with a hunger for growth in computer science 💻
   - Engineer in her girlie era 💅
   - Speed and adrenaline lover 🚀
@@ -180,6 +180,9 @@ This is where I open-source, break things, and build them back better:
 <a href="https://tomcat.apache.org/">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
 </a>
+
+
+
 
 ### Spotify Playing 🎧
 
