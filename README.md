@@ -15,7 +15,7 @@ This is where I open-source, break things, and build them back better:
 
 
 <h2> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-<h3>🛠️ DevOps & Cloud</h3>
+<h3> DevOps & Cloud</h3>
 <p align="left">
 
 <!-- Docker -->
@@ -58,11 +58,16 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </a>
 
+<!-- Bash -->
+<a href="https://en.wikipedia.org/wiki/Shell_script">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</a>
+
 </p>
 
-´´
 
-<h3>💻 Programming Languages</h3>
+
+<h3> Programming Languages</h3>
 <p align="left">
 
 <a href="https://isocpp.org/">
@@ -92,7 +97,7 @@ This is where I open-source, break things, and build them back better:
 </p>
 
 
-<h3>🧩 Frameworks & Backend</h3>
+<h3> Frameworks & Backend</h3>
 <p align="left">
 
 <!-- Spring Boot -->
@@ -127,7 +132,7 @@ This is where I open-source, break things, and build them back better:
 
 </p>
 
-<h3>🌐 Frontend & UI</h3>
+<h3> Frontend & UI</h3>
 <p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -153,7 +158,7 @@ This is where I open-source, break things, and build them back better:
 </p>
 
 
-<h3>🗄️ Databases & Storage</h3>
+<h3> Databases & Storage</h3>
 <p align="left">
 
 <!-- MySQL -->
@@ -179,7 +184,7 @@ This is where I open-source, break things, and build them back better:
 </p>
 
 
-<h3>🧪 Testing & API Tools</h3>
+<h3> Testing & API Tools</h3>
 <p align="left">
 
 <!-- Postman -->
@@ -195,7 +200,7 @@ This is where I open-source, break things, and build them back better:
 </p>
 
 
-<h3>🎨 Design & UX</h3>
+<h3> Design & UX</h3>
 <p align="left">
 
 <!-- Figma -->
@@ -211,7 +216,7 @@ This is where I open-source, break things, and build them back better:
 </p>
 
 
-<h3>🧰 Tools & Methodologies</h3>
+<h3> Tools & Methodologies</h3>
 <p align="left">
 
 <!-- Git -->
