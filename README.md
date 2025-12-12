@@ -232,15 +232,7 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrumalliance.svg">
 </a>
 
-<!-- Jira -->
-<a href="https://www.atlassian.com/software/jira">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-</a>
 
-<!-- Slack -->
-<a href="https://slack.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-</a>
 
 </p>
 
