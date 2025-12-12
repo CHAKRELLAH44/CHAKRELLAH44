@@ -28,9 +28,19 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
 </a>
 
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+</a>
+
 <!-- Ansible -->
 <a href="https://www.ansible.com/">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+</a>
+
+<!-- GitHub Actions -->
+<a href="https://github.com/features/actions">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg">
 </a>
 
 <!-- Prometheus -->
@@ -63,12 +73,16 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 </a>
 
-</p>
+<!-- Jira -->
+<a href="https://www.atlassian.com/software/jira">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+</a>
 
+<!-- Slack -->
+<a href="https://slack.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+</a>
 
-
-<h3> Programming Languages</h3>
-<p align="left">
 
 <a href="https://isocpp.org/">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -94,11 +108,7 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </a>
 
-</p>
 
-
-<h3> Frameworks & Backend</h3>
-<p align="left">
 
 <!-- Spring Boot -->
 <a href="https://spring.io/projects/spring-boot">
@@ -130,10 +140,7 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
 </a>
 
-</p>
 
-<h3> Frontend & UI</h3>
-<p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -155,11 +162,10 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg">
 </a>
 
-</p>
 
 
-<h3> Databases & Storage</h3>
-<p align="left">
+
+
 
 <!-- MySQL -->
 <a href="https://www.mysql.com/">
@@ -181,11 +187,7 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 </a>
 
-</p>
 
-
-<h3> Testing & API Tools</h3>
-<p align="left">
 
 <!-- Postman -->
 <a href="https://www.postman.com/">
@@ -213,11 +215,7 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </a>
 
-</p>
 
-
-<h3> Tools & Methodologies</h3>
-<p align="left">
 
 <!-- Git -->
 <a href="https://git-scm.com/">
@@ -237,6 +235,16 @@ This is where I open-source, break things, and build them back better:
 <!-- Scrum -->
 <a href="https://www.scrum.org/">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrumalliance.svg">
+</a>
+
+<!-- Jira -->
+<a href="https://www.atlassian.com/software/jira">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+</a>
+
+<!-- Slack -->
+<a href="https://slack.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 </a>
 
 </p>
