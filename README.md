@@ -181,7 +181,45 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
 </a>
 
+<!-- Docker -->
+<a href="https://www.docker.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</a>
 
+<!-- Kubernetes -->
+<a href="https://kubernetes.io/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+</a>
+
+<!-- Grafana -->
+<a href="https://grafana.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+</a>
+
+<!-- Prometheus -->
+<a href="https://prometheus.io/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
+</a>
+
+<!-- Ansible -->
+<a href="https://www.ansible.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+</a>
+
+<!-- Spring Boot -->
+<a href="https://spring.io/projects/spring-boot">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+</a>
+
+<!-- Swagger / OpenAPI -->
+<a href="https://swagger.io/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
+</a>
+
+<!-- Figma -->
+<a href="https://www.figma.com/">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</a>
 
 
 ### Spotify Playing 🎧
