@@ -199,11 +199,7 @@ This is where I open-source, break things, and build them back better:
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
 </a>
 
-</p>
 
-
-<h3> Design & UX</h3>
-<p align="left">
 
 <!-- Figma -->
 <a href="https://www.figma.com/">
