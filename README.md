@@ -2,8 +2,6 @@
 
 **Software Engineer** · EMSI graduate (Computer Science & Networks) · **Open to opportunities** in Morocco, France, the UK and across Europe.
 
-I build with **Salesforce**, **Java** and **Python / AI**, and I've shipped real projects for real clients during my internships at D&A Technologies (Casablanca) and Proviroll (Paris).
-
   - Turning caffeine into code ☕
   - Engineer in her girlie era 💅
   - Speed and adrenaline lover 🚀
