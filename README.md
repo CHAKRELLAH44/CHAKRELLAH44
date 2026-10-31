@@ -1,243 +1,69 @@
-<h2 align="left">Beep boop... I mean, hi! 🤖</h2>
+<h2 align="left">Beep boop... I mean, hi! 🤖 I'm Imane</h2>
 
+**Software Engineer** · EMSI graduate (Computer Science & Networks) · **Open to opportunities** in Morocco, France, the UK and across Europe.
 
-This is where I open-source, break things, and build them back better:
+I build with **Salesforce**, **Java** and **Python / AI**, and I've shipped real projects for real clients during my internships at D&A Technologies (Casablanca) and Proviroll (Paris).
 
-  - last year engineering student turning caffeine into code ☕
-  - Passionate programmer with a hunger for growth in computer science 💻
+  - Turning caffeine into code ☕
   - Engineer in her girlie era 💅
   - Speed and adrenaline lover 🚀
-  - Turning flour, sugar, and code into something delicious 🍪👩‍🍳
-  - In love with lyrics that touch the soul and beats that move the body 🎶❤️
+  - Baking cookies between two commits 🍪
 
+👉 **Want to know more about me? Visit my website: [imanska.me](https://imanska.me)**
 
-
-
+<p align="left">
+  <a href="https://imanska.me"><img src="https://img.shields.io/badge/Website-imanska.me-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/VOTRE-PROFIL/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 <h2> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
+
+**Salesforce & Integration**
 <p align="left">
+  <a href="https://www.salesforce.com/"><img width="40px" title="Salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"></a>
+  <a href="https://www.mulesoft.com/"><img height="28px" title="MuleSoft" src="https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge&logoColor=white"></a>
+</p>
 
-<!-- Docker -->
-<a href="https://www.docker.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</a>
+**Languages**
+<p align="left">
+  <a href="https://www.java.com/"><img width="32px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+  <a href="https://www.python.org/"><img width="32px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="32px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+  <a href="https://isocpp.org/"><img width="32px" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+</p>
 
-<!-- Kubernetes -->
-<a href="https://kubernetes.io/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-</a>
+**Frameworks**
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot"><img width="32px" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a>
+  <a href="https://www.djangoproject.com/"><img width="32px" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></a>
+  <a href="https://react.dev/"><img width="32px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
+</p>
 
-<!-- Jenkins -->
-<a href="https://www.jenkins.io/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-</a>
+**Databases**
+<p align="left">
+  <a href="https://www.mysql.com/"><img width="32px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+  <a href="https://www.oracle.com/database/"><img width="32px" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"></a>
+  <a href="https://www.mongodb.com/"><img width="32px" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
+</p>
 
-<!-- Ansible -->
-<a href="https://www.ansible.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
-</a>
+**Cloud & DevOps**
+<p align="left">
+  <a href="https://www.docker.com/"><img width="32px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
+  <a href="https://kubernetes.io/"><img width="32px" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a>
+  <a href="https://www.jenkins.io/"><img width="32px" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></a>
+  <a href="https://github.com/features/actions"><img width="32px" title="GitHub Actions" src="https://cdn.simpleicons.org/githubactions/2088FF"></a>
+  <a href="https://azure.microsoft.com/"><img width="32px" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></a>
+  <a href="https://www.linux.org/"><img width="32px" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
+</p>
 
-<!-- GitHub Actions -->
-<a href="https://github.com/features/actions">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg">
-</a>
-
-<!-- Prometheus -->
-<a href="https://prometheus.io/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
-</a>
-
-<!-- Grafana -->
-<a href="https://grafana.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-</a>
-
-<!-- AWS -->
-<a href="https://aws.amazon.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg">
-</a>
-
-<!-- Azure -->
-<a href="https://azure.microsoft.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-</a>
-
-<!-- Linux -->
-<a href="https://www.linux.org/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</a>
-
-<!-- Bash -->
-<a href="https://en.wikipedia.org/wiki/Shell_script">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-</a>
-
-<!-- Jira -->
-<a href="https://www.atlassian.com/software/jira">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-</a>
-
-<!-- Slack -->
-<a href="https://slack.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-</a>
-
-
-<a href="https://isocpp.org/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</a>
-
-<a href="https://www.java.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</a>
-
-<a href="https://www.python.org/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</a>
-
-<a href="https://www.javascript.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</a>
-
-
-
-<!-- Spring Boot -->
-<a href="https://spring.io/projects/spring-boot">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-</a>
-
-<!-- JEE -->
-<a href="https://www.oracle.com/java/technologies/java-ee-glance.html">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</a>
-
-<!-- Django -->
-<a href="https://www.djangoproject.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-</a>
-
-<!-- Flask -->
-<a href="https://flask.palletsprojects.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-</a>
-
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-</a>
-
-<!-- Tomcat -->
-<a href="https://tomcat.apache.org/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
-</a>
-
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</a>
-
-<a href="https://react.dev/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</a>
-
-<a href="https://getbootstrap.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-</a>
-
-<a href="https://vitejs.dev/">
-  <img width="32px" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg">
-</a>
-
-
-
-
-
-
-<!-- MySQL -->
-<a href="https://www.mysql.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</a>
-
-<!-- Oracle -->
-<a href="https://www.oracle.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-</a>
-
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-</a>
-
-<!-- Firebase -->
-<a href="https://firebase.google.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-</a>
-
-
-
-<!-- Postman -->
-<a href="https://www.postman.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-</a>
-
-<!-- Swagger -->
-<a href="https://swagger.io/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
-</a>
-
-
-
-<!-- Figma -->
-<a href="https://www.figma.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</a>
-
-<!-- Photoshop -->
-<a href="https://www.adobe.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-</a>
-
-
-
-<!-- Git -->
-<a href="https://git-scm.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</a>
-
-<!-- Bash -->
-<a href="https://en.wikipedia.org/wiki/Shell_script">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-</a>
-
-<!-- Scrum -->
-<a href="https://www.scrum.org/">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrumalliance.svg">
-</a>
-
-
-
+**Tools & Methods**
+<p align="left">
+  <a href="https://git-scm.com/"><img width="32px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+  <a href="https://www.postman.com/"><img width="32px" title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"></a>
+  <a href="https://www.atlassian.com/software/jira"><img width="32px" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a>
+  <a href="https://www.scrum.org/"><img width="32px" title="Scrum" src="https://cdn.simpleicons.org/scrumalliance/009FDA"></a>
 </p>
 
 ### Spotify Playing 🎧
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jkcgqgeum9gcmp3x23skg6h5e&unique={true|1|on|yes})
-###
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jkcgqgeum9gcmp3x23skg6h5e&unique=true)
