@@ -46,10 +46,19 @@ Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕
 
 <!-- =============== GITHUB TROPHIES =============== -->
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>📊 GitHub Stats</h2>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=CHAKRELLAH44&theme=darkhub&no-frame=true&no-bg=true&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" width="95%" alt="GitHub Trophies"/>
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=CHAKRELLAH44&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=05D9E0&icon_color=05D9E0&text_color=C9D1D9&ring_color=05D9E0"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRELLAH44&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=05D9E0&text_color=C9D1D9"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
@@ -81,6 +90,3 @@ Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕
   <i>Code. Create. Learn. Repeat. 🚀</i>
 </p>
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=05D9E0&height=3&section=footer" width="100%"/>
-</p>
