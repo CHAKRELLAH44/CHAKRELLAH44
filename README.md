@@ -33,57 +33,24 @@ Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕
 
 ---
 
-<!-- =============== GITHUB STATS =============== -->
 
-<h2>📊 GitHub Analytics</h2>
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHAKRELLAH44&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=05D9E0&icon_color=05D9E0&text_color=C9D1D9&ring_color=05D9E0" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRELLAH44&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=05D9E0&text_color=C9D1D9" alt="Most Used Languages"/>
-</p>
-
----
-
-<!-- =============== GITHUB TROPHIES =============== -->
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=CHAKRELLAH44&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=05D9E0&icon_color=05D9E0&text_color=C9D1D9&ring_color=05D9E0"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRELLAH44&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=05D9E0&text_color=C9D1D9"
-    alt="Most Used Languages"
-  />
-</p>
-
----
 
 <!-- =============== SPOTIFY =============== -->
 
-<h2>🎧 Currently vibing to...</h2>
+### Spotify Playing 🎧
 
-<p>
-  <img src="https://spotibadge.vercel.app/api/now-playing/YOUR_SPOTIBADGE_PUBLIC_ID.svg?background_type=blur_dark&show_status=true" width="420" alt="Currently Playing on Spotify"/>
-</p>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jkcgqgeum9gcmp3x23skg6h5e&unique=true)
 
----
 
 <!-- =============== FOOTER =============== -->
-
+<p>
 <h2>🌐 Let's Connect</h2>
 
-<p>
+
   <a href="https://imanska.me">
     <img src="https://img.shields.io/badge/Portfolio-05D9E0?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
-  <a href="https://github.com/CHAKRELLAH44">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+
 </p>
 
 <p>
