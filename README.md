@@ -1,15 +1,23 @@
-<h2 align="left">Beep boop... I mean, hi! 🤖 I'm Imane</h2>
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Imane Chakrellah aka IMANSKA — Software Engineer">
+</p>
 
-**Software Engineer** · EMSI graduate (Computer Science & Networks) · **Open to opportunities** in Morocco, France, the UK and across Europe.
+<h2 align="left">Hi there 👋 I am Imane</h2>
 
-  - Turning caffeine into code ☕
-  - Engineer in her girlie era 💅
-  - Speed and adrenaline lover 🚀
-  - Baking cookies between two commits 🍪
+I am a **Software Engineer** 👩‍💻, EMSI graduate in Computer Science & Networks, building with **Salesforce**, **Java** and **Python / AI**. During my internships at D&A Technologies (Casablanca) and Proviroll (Paris), I shipped real projects for real clients.
+
+Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕ and baking cookies between two commits 🍪.
+
+  - 🔭 I'm **open to opportunities** in Morocco, France, the UK and across Europe
+  - 📫 How to reach me: through my website **[imanska.me](https://imanska.me)**
+  - ⚡ Fun fact: I love speed, on the road and in my code. Fast rides, fast builds, zero lag 🏎️
 
 👉 **Want to know more about me? Visit my website: [imanska.me](https://imanska.me)**
 
-🌐 [imanska.me](https://imanska.me) · 💼 [LinkedIn](https://www.linkedin.com/in/VOTRE-PROFIL/)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=05D9E0&icon_color=05D9E0&text_color=c9d1d9&ring_color=05D9E0" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=05D9E0&text_color=c9d1d9" alt="Most used languages">
+</p>
 
 <h2> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 
