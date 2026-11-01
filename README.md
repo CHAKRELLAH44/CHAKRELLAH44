@@ -4,7 +4,7 @@
 
 <h2 align="left">Hi there 👋 I am Imane</h2>
 
-I am a **Software Engineer** 👩‍💻, EMSI graduate in Computer Science & Networks, building with **Salesforce**, **Java** and **Python / AI**. During my internships at D&A Technologies (Casablanca) and Proviroll (Paris), I shipped real projects for real clients.
+I am a **Software Engineer** 👩‍💻, Graduate in Computer Science & Networks , I shipped real projects for real clients.
 
 Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕ and baking cookies between two commits 🍪.
 
@@ -12,7 +12,6 @@ Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕
   - 📫 How to reach me: through my website **[imanska.me](https://imanska.me)**
   - ⚡ Fun fact: I love speed, on the road and in my code. Fast rides, fast builds, zero lag 🏎️
 
-👉 **Want to know more about me? Visit my website: [imanska.me](https://imanska.me)**
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=05D9E0&icon_color=05D9E0&text_color=c9d1d9&ring_color=05D9E0" alt="GitHub stats">
@@ -66,6 +65,8 @@ Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕
   <a href="https://www.atlassian.com/software/jira"><img width="32px" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a>
   <a href="https://www.scrum.org/"><img width="32px" title="Scrum" src="https://cdn.simpleicons.org/scrumalliance/009FDA"></a>
 </p>
+
+👉 **Want to know more about me? Visit my website: [imanska.me](https://imanska.me)**
 
 ### Spotify Playing 🎧
 
