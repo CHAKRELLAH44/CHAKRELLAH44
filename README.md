@@ -1,6 +1,4 @@
-
 <!-- =============== ANIMATED INTRO =============== -->
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=1000&color=05D9E0&vCenter=true&width=400&height=65&lines=IMANSKA_%3C%2F%3E" alt="IMANSKA"/>
 </p>
@@ -16,9 +14,7 @@ Off duty, I'm an engineer in her girlie era 💅, turning caffeine into code ☕
 - 🏎️ Fun fact: I love speed, on the road and in my code. Fast rides, fast builds, zero lag.
 
 ---
-
 <!-- =============== TECH STACK =============== -->
-
 <h2>
   Tech Stack
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
